@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,dkruplinger,Ruplinger,Dax
 employee,lu524,Lu,Yu
